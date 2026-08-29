@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c402a3b8-0136-4b76-85bf-9ab53fd9b3f1",
+    "clientName": "Juan Pérez",
+    "clientEmail": "juan.perez@empresa.com",
+    "date": "15/10/2026",
+    "time": "10:30",
+    "status": true,
+    "services": [
+      {
+        "service": "9afe25e0-9306-4b39-9a7e-2adabde66854",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "id": "69066afd-8ac4-4473-9b4e-98f08e2ba00d",
+    "clientName": "Ana Gómez",
+    "clientEmail": "ana.gomez@empresa.com",
+    "date": "20/10/2026",
+    "time": "14:00",
+    "status": true,
+    "services": [
+      {
+        "service": "9afe25e0-9306-4b39-9a7e-2adabde66854",
+        "quantity": 1
+      }
+    ]
+  }
+]

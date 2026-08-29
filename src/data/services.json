@@ -1,0 +1,11 @@
+[
+  {
+    "id": "9afe25e0-9306-4b39-9a7e-2adabde66854",
+    "name": "Corte de Pelo",
+    "description": "Corte de Pelo Premium",
+    "duration": 60,
+    "price": 850,
+    "category": "Cuidado Personal",
+    "available": true
+  }
+]
