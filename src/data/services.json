@@ -7,5 +7,14 @@
     "price": 850,
     "category": "Cuidado Personal",
     "available": true
+  },
+  {
+    "id": "2600dc18-6ca9-449f-9bb8-96f560de79b0",
+    "name": "Entrenamiento Personalizado",
+    "description": "Entrenamiento Personalizado con Profesor",
+    "duration": 30,
+    "price": 100,
+    "category": "Cuidado Personal",
+    "available": true
   }
 ]
